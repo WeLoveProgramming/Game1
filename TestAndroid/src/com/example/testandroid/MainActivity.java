@@ -19,7 +19,10 @@ public class MainActivity extends Activity {
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}
-
+	public boolean onButtonClick(MenuItem item){
+		//android.R.id.Txt1="Troll";
+		return true;
+	}
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
 		// Handle action bar item clicks here. The action bar will
