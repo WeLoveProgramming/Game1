@@ -52,4 +52,4 @@ Compointants:
   EventWhenHP==0:
   
      GameOver()
-      ScoreOutput()
+     ScoreOutput()
