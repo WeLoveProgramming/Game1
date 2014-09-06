@@ -32,10 +32,10 @@ Components:
   
     Background picture, a looping picture that is continous, ypos--
     Obstacles and enimes, ypos--.  
-    enimes.move()
+    enemies.move()
     if weapon collides, then enemies.ypos++ and enemies.hp--
     if avatar collides, then backgound.ypos++,avatar.hp--, enemies.ypos++, obstacle.ypos++
-    if weapon.active==true then weapon.continueSwipe()
+    if weapon.active==true then weapon.continueSwipe(), weapon.active = false
   
   Tilt left:
   
@@ -47,7 +47,7 @@ Components:
    
   Tap:
   
-     then weapon.create, weapon.swipe(int degree)
+     then weapon.active = true, weapon.swipe(int degree)
   
   EventWhenHP==0:
   
