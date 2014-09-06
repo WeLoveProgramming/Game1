@@ -2,7 +2,7 @@ Game1
 ===========
 Objects:
  
-  avator:
+  Avatar:
   
     HP
     Weapon
@@ -13,41 +13,41 @@ Objects:
     damage
     isActive
     
-  obsticales:
+  Obstacles:
   
     xpos, ypos, tickAction()
     
-  enimes extands obsticales:
+  Enemies extends Obstacles:
   
-    @inherated
+    @inherited
     xpos, ypos
     @new members
     directionMoving
     @override
     tickAction()
     
-Compointants:
+Components:
 
   On every tick:
   
-    Backgroud picture, a picture that is continous, ypos--
-    obsticales and enimes, ypos--.  
+    Background picture, a looping picture that is continous, ypos--
+    Obstacles and enimes, ypos--.  
     enimes.move()
-    if weapon collies, then enimes.ypos++ and enimes.hp--
-    if avator collies, then backgound.ypos++,avator.hp--, enimes.ypos++, obsticale.ypos++
-    if weapon.active==true then weapon.contineSwipe()
+    if weapon collides, then enemies.ypos++ and enemies.hp--
+    if avatar collides, then backgound.ypos++,avatar.hp--, enemies.ypos++, obstacle.ypos++
+    if weapon.active==true then weapon.continueSwipe()
   
   Tilt left:
   
-    then enimes.xpos--, obsticale.xpos--, backgound.xpos--
+    then enemies.xpos--, obstacle.xpos--, backgound.xpos--
    
   Tilt right:
   
-     then enimes.xpos++, obsticale.xpos++, backgound.xpos++
+     then enemies.xpos++, obsticle.xpos++, backgound.xpos++
    
   Tap:
   
-     then wapan.create, weapon.swipe
+     then weapon.create, weapon.swipe(int degree)
   
   EventWhenHP==0:
   
