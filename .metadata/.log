@@ -1,0 +1,1175 @@
+!SESSION 2014-09-16 17:32:00.910 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:16.104
+!MESSAGE Could not bind a reference of component com.sap.it.cmd.handler. The reference is: Reference[name = ICMDContributor, interface = com.sap.it.cmd.provider.ICMDContributor, policy = dynamic, cardinality = 0..n, target = null, bind = bindCMDFeature, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:16.108
+!MESSAGE Could not bind a reference of component com.sap.it.cmd.handler. The reference is: Reference[name = ICMDContributor, interface = com.sap.it.cmd.provider.ICMDContributor, policy = dynamic, cardinality = 0..n, target = null, bind = bindCMDFeature, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:16.636
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IConnectionProperties, interface = com.sap.it.ds.intrsp.md.api.IConnectionProperties, policy = dynamic, cardinality = 0..n, target = null, bind = bindConnectionProperties, unbind = unbindConnectionProperties]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:16.640
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IConnectionProperties, interface = com.sap.it.ds.intrsp.md.api.IConnectionProperties, policy = dynamic, cardinality = 0..n, target = null, bind = bindConnectionProperties, unbind = unbindConnectionProperties]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:16.644
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IDataSource, interface = com.sap.it.ds.intrsp.md.api.IDataSource, policy = dynamic, cardinality = 0..n, target = null, bind = bindDataSource, unbind = unbindDataSource]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:16.648
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IDataSource, interface = com.sap.it.ds.intrsp.md.api.IDataSource, policy = dynamic, cardinality = 0..n, target = null, bind = bindDataSource, unbind = unbindDataSource]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:16.652
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IQueryBuilder, interface = com.sap.it.ds.intrsp.md.api.service.IQueryBuilderService, policy = dynamic, cardinality = 0..n, target = null, bind = bindQueryBuilder, unbind = unbindQueryBuilder]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:16.656
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IQueryBuilder, interface = com.sap.it.ds.intrsp.md.api.service.IQueryBuilderService, policy = dynamic, cardinality = 0..n, target = null, bind = bindQueryBuilder, unbind = unbindQueryBuilder]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:16.661
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IMetadataService, interface = com.sap.it.ds.intrsp.md.api.service.IMetadataService, policy = dynamic, cardinality = 0..n, target = null, bind = bindMetadataService, unbind = unbindMetadataService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:16.665
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IMetadataService, interface = com.sap.it.ds.intrsp.md.api.service.IMetadataService, policy = dynamic, cardinality = 0..n, target = null, bind = bindMetadataService, unbind = unbindMetadataService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:17.302
+!MESSAGE Could not bind a reference of component com.sap.it.ifl.common.core.generation.manager. The reference is: Reference[name = IGenerationContributor, interface = com.sap.it.gnb.ifl.common.gen.pluggability.api.IGenerationContributor, policy = dynamic, cardinality = 0..n, target = null, bind = bindContributors, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:17.307
+!MESSAGE Could not bind a reference of component com.sap.it.ifl.common.core.generation.manager. The reference is: Reference[name = IGenerationContributor, interface = com.sap.it.gnb.ifl.common.gen.pluggability.api.IGenerationContributor, policy = dynamic, cardinality = 0..n, target = null, bind = bindContributors, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:17.311
+!MESSAGE Could not bind a reference of component com.sap.it.ifl.common.core.generation.manager. The reference is: Reference[name = IPostGeneratorHandler, interface = com.sap.it.gnb.ifl.common.gen.pluggability.api.IPostGeneratorHandler, policy = dynamic, cardinality = 0..n, target = null, bind = bindPostGenerationHandler, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:17.315
+!MESSAGE Could not bind a reference of component com.sap.it.ifl.common.core.generation.manager. The reference is: Reference[name = IPostGeneratorHandler, interface = com.sap.it.gnb.ifl.common.gen.pluggability.api.IPostGeneratorHandler, policy = dynamic, cardinality = 0..n, target = null, bind = bindPostGenerationHandler, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:17.320
+!MESSAGE Could not bind a reference of component com.sap.it.ifl.common.core.generation.manager. The reference is: Reference[name = IFlowReferenceResolverImpl, interface = com.sap.it.gnb.ifl.common.gen.pluggability.api.IResourceProvider, policy = dynamic, cardinality = 0..1, target = null, bind = bindIFlowReferenceResolver, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:17.325
+!MESSAGE Could not bind a reference of component com.sap.it.ifl.common.core.generation.manager. The reference is: Reference[name = IFlowReferenceResolverImpl, interface = com.sap.it.gnb.ifl.common.gen.pluggability.api.IResourceProvider, policy = dynamic, cardinality = 0..1, target = null, bind = bindIFlowReferenceResolver, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:17.378
+!MESSAGE Could not bind a reference of component com.sap.it.gnb.ifl.common.checks. The reference is: Reference[name = IComponentCheck, interface = com.sap.it.gnb.ifl.common.validation.api.IComponentCheck, policy = dynamic, cardinality = 0..n, target = null, bind = bindComponentCheck, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:17.382
+!MESSAGE Could not bind a reference of component com.sap.it.gnb.ifl.common.checks. The reference is: Reference[name = IComponentCheck, interface = com.sap.it.gnb.ifl.common.validation.api.IComponentCheck, policy = dynamic, cardinality = 0..n, target = null, bind = bindComponentCheck, unbind = null]
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:32:17.654
+!MESSAGE NLS missing message: CollaborationExtensionCheck_101 in: com.sap.it.ifl.core.checks.messages
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:32:17.658
+!MESSAGE NLS missing message: CollaborationExtensionCheck_106 in: com.sap.it.ifl.core.checks.messages
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:32:17.662
+!MESSAGE NLS missing message: CollaborationExtensionCheck_74 in: com.sap.it.ifl.core.checks.messages
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:32:17.666
+!MESSAGE NLS missing message: CollaborationExtensionCheck_86 in: com.sap.it.ifl.core.checks.messages
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:32:17.670
+!MESSAGE NLS missing message: CollaborationExtensionCheck_91 in: com.sap.it.ifl.core.checks.messages
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:32:17.674
+!MESSAGE NLS missing message: CollaborationExtensionCheck_96 in: com.sap.it.ifl.core.checks.messages
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:17.695
+!MESSAGE Could not bind a reference of component com.sap.it.gnb.ifl.common.manifest.manager. The reference is: Reference[name = IManifestHandler, interface = com.sap.it.gnb.ifl.common.manifest.IManifestHandler, policy = dynamic, cardinality = 0..1, target = null, bind = bindContributors, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:17.699
+!MESSAGE Could not bind a reference of component com.sap.it.gnb.ifl.common.manifest.manager. The reference is: Reference[name = IManifestHandler, interface = com.sap.it.gnb.ifl.common.manifest.IManifestHandler, policy = dynamic, cardinality = 0..1, target = null, bind = bindContributors, unbind = null]
+
+!ENTRY com.sap.ndb.studio.rdl.common 4 0 2014-09-16 17:32:21.580
+!MESSAGE [SCR] Found components with duplicated names inside their bundle! This component will not be processed: Component[
+	name = IXPath
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = com.sap.ndb.studio.rdl.common.util.XPathUtils
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [com.sap.ndb.studio.rdl.common.interfaces.xpath.IXPath]
+	references = null
+	located in bundle = com.sap.ndb.studio.rdl.common_1.81.3 [1753]
+] 
+
+!ENTRY com.sap.ndb.studio.rdl.common 4 0 2014-09-16 17:32:21.586
+!MESSAGE [SCR] Found components with duplicated names inside their bundle! This component will not be processed: Component[
+	name = IXPath
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = false
+	implementation = com.sap.ndb.studio.rdl.common.util.XPathUtils
+	state = Unsatisfied
+	properties = 
+	serviceFactory = false
+	serviceInterface = [com.sap.ndb.studio.rdl.common.interfaces.xpath.IXPath]
+	references = null
+	located in bundle = com.sap.ndb.studio.rdl.common_1.81.3 [1753]
+] 
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:22.804
+!MESSAGE Could not bind a reference of component com.sap.it.mapping.mm.serializer.factory. The reference is: Reference[name = Serializer, interface = com.sap.it.mapping.mm.serializer.Serializer, policy = dynamic, cardinality = 0..n, target = null, bind = addSerializer, unbind = removeSerializer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2014-09-16 17:32:22.809
+!MESSAGE Could not bind a reference of component com.sap.it.mapping.mm.serializer.factory. The reference is: Reference[name = Serializer, interface = com.sap.it.mapping.mm.serializer.Serializer, policy = dynamic, cardinality = 0..n, target = null, bind = addSerializer, unbind = removeSerializer]
+
+!ENTRY org.eclipse.emf.ecore 2 0 2014-09-16 17:32:56.147
+!MESSAGE Both 'com.sap.ide.ui5.ctrl.metamodel' and 'com.sap.ndb.studio.model.data' register an extension parser for 'type'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2014-09-16 17:32:56.152
+!MESSAGE Both 'com.sap.adt.ddic.view' and 'com.sap.ndb.studio.view.model' register an extension parser for 'view'
+
+!ENTRY org.eclipse.ui 2 0 2014-09-16 17:33:02.704
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-09-16 17:33:02.704
+!MESSAGE Cannot bind to an undefined command: plug-in='com.sap.ndb.studio.federation.catalog', id='com.sap.ndb.studio.federation.addasproxy'
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:33:06.501
+!MESSAGE NLS unused message: ERROR_NON_EXISTING_YMSG in: com.sap.ndb.studio.rules.i18n.messages
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:33:06.508
+!MESSAGE NLS missing message: ERROR_LENGTH_FOUR_XLOG in: com.sap.ndb.studio.rules.i18n.messages
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:33:06.513
+!MESSAGE NLS missing message: ERROR_LENGTH_THREE_XLOG in: com.sap.ndb.studio.rules.i18n.messages
+
+!ENTRY org.eclipse.jface 2 0 2014-09-16 17:33:11.497
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-09-16 17:33:11.497
+!MESSAGE A conflict occurred for ALT+SHIFT+Q U:
+Binding(ALT+SHIFT+Q U,
+	ParameterizedCommand(Command(org.eclipse.ui.views.showView,Show View,
+		Shows a particular view,
+		Category(org.eclipse.ui.category.views,Views,Commands for opening views,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7cffbd69,
+		[Lorg.eclipse.e4.ui.internal.workbench.Parameter;@79ec789b,,true),[Lorg.eclipse.core.commands.Parameterization;@13e246a6),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+Q U,
+	ParameterizedCommand(Command(org.eclipse.ui.views.showView,Show View,
+		Shows a particular view,
+		Category(org.eclipse.ui.category.views,Views,Commands for opening views,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7cffbd69,
+		[Lorg.eclipse.e4.ui.internal.workbench.Parameter;@79ec789b,,true),[Lorg.eclipse.core.commands.Parameterization;@6c8c467c),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-09-16 17:33:11.497
+!MESSAGE A conflict occurred for CTRL+SHIFT+P:
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(com.sap.adt.wda.view.ui.internal.command.contextbind,Bind to context,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6d67ae90,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(com.sap.bw.preview.refresh,Refresh Data Preview,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@31f5a80d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.apache.log4j 2 0 2014-09-16 17:33:39.790
+!MESSAGE com.sap.i18n.cp.ConvertSimpleBase  - Load shortcut failed. RscpInfo: Load shortcut failed.
+InCp: 0100 OutCp: 0000
+Rscp return code: 2048
+Rscp error info: 
+.------------------------------============----------------------------.
+|                              RSCP - Error                            |
+| Error from:             Codepage handling (RSCP)                     |
+| code: 2048  RSCPENOCONV  Wanted conversion not available.            |
+| no shortcut conversion table                                         |
+| module: rscpc    no:  259 line: 22243                    T100: TS012 |
+| TSL01: CP9  p3: len=1,data=00                                        |
+|             p4: (0100->4103): kind of T1 entry 536870912             |
+`----------------------------------------------------------------------'
+
+
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:24.373
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.preferences.UI5LibrariesRegistry
+   Method     : getBundleNamesUI5CoreLibs
+   Message    : found UI libraries null
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:24.784
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:24.790
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:24.825
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:24.830
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:24.839
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : Missing Templates in: com.sap.ui5.themelib_sap_goldreflection
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:24.909
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:24.914
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:24.957
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:24.963
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:26.510
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:26.515
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:26.645
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:26.651
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:27.424
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:27.429
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:27.446
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:27.451
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:27.505
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:27.510
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:27.536
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:27.540
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:27.652
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:27.659
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:27.711
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:27.717
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:27.896
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:27.904
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:27.938
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:27.944
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.172
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.177
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.252
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.258
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.452
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.458
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.529
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.534
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.584
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : Missing Templates in: com.sap.ushell.ushell-lib-testresources
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.644
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.649
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.672
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.676
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.877
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.882
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.917
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.923
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:28.995
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:29.000
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:29.034
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:29.041
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:29.116
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:29.123
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:29.138
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:29.143
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:29.150
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : Missing Templates in: com.sap.ui5.themelib_sap_bluecrystal
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:29.198
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:29.204
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:29.218
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:29.224
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:29.689
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:29.697
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:29.739
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:29.744
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:30.233
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:30.238
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:30.266
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:30.272
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:30.330
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:30.335
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:30.352
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:30.359
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:30.397
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2014-09-16 17:34:30.402
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ndb.studio.hampton.common 1 0 2014-09-16 17:34:32.070
+!MESSAGE Start up Hampton Event Manager
+
+!ENTRY com.sap.ndb.studio.hampton.common 1 1 2014-09-16 17:34:32.075
+!MESSAGE Class com.sap.ndb.studio.hampton.common.PlanValidator registered for listening
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:34:32.527
+!MESSAGE NLS unused message: NEW_PROJECT_PAGE_PROJECT_DOCUMENTATION_XFLD in: com.sap.ndb.studio.rdl.editor.ui.i18n.messages
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:34:32.532
+!MESSAGE NLS unused message: NEW_PROJECT_PAGE_MODELER_RADIO_XBUT in: com.sap.ndb.studio.rdl.editor.ui.i18n.messages
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:34:32.537
+!MESSAGE NLS unused message: NEW_PROJECT_PAGE_PROJECT_DOCUMENTATION_XMSG in: com.sap.ndb.studio.rdl.editor.ui.i18n.messages
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:34:32.542
+!MESSAGE NLS unused message: NEW_PROJECT_INITIAL_CONTENT_CSDL_RADIO_XBUT in: com.sap.ndb.studio.rdl.editor.ui.i18n.messages
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:34:32.547
+!MESSAGE NLS unused message: NEW_PROJECT_INITIAL_CONTENT_BROWSE_BUT_XBUT in: com.sap.ndb.studio.rdl.editor.ui.i18n.messages
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:34:32.551
+!MESSAGE NLS unused message: NEW_PROJECT_INITIAL_CONTENT_PARSE_SUCCESS_XMSG in: com.sap.ndb.studio.rdl.editor.ui.i18n.messages
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:34:32.556
+!MESSAGE NLS unused message: NEW_PROJECT_INITIAL_CONTENT_FILE_BROWSER_XTIT in: com.sap.ndb.studio.rdl.editor.ui.i18n.messages
+
+!ENTRY org.eclipse.osgi 2 1 2014-09-16 17:34:32.562
+!MESSAGE NLS unused message: NEW_PROJECT_INITIAL_CONTENT_PARSE_FAIL_XMSG in: com.sap.ndb.studio.rdl.editor.ui.i18n.messages
+
+!ENTRY org.eclipse.jface 2 0 2014-09-16 17:35:01.094
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-09-16 17:35:01.094
+!MESSAGE A conflict occurred for CTRL+.:
+Binding(CTRL+.,
+	ParameterizedCommand(Command(org.eclipse.ui.navigate.next,Next,
+		Navigate to the next item,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@717e590c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+.,
+	ParameterizedCommand(Command(com.sap.jvm.profiling.ui.workbench.navigate.next,Navigate to the next item,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1e085d0a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialog,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-09-16 17:35:01.094
+!MESSAGE A conflict occurred for CTRL+,:
+Binding(CTRL+,,
+	ParameterizedCommand(Command(org.eclipse.ui.navigate.previous,Previous,
+		Navigate to the previous item,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@37144aed,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+,,
+	ParameterizedCommand(Command(com.sap.jvm.profiling.ui.workbench.navigate.previous,Navigate to the previous item,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@154329db,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialog,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-09-16 17:35:01.094
+!MESSAGE A conflict occurred for DEL:
+Binding(DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.delete,Delete,
+		Delete the selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5bbc96ea,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.delete,Delete,
+		Delete the selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5bbc96ea,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialog,,,system)
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2014-09-16 17:35:30.444
+!MESSAGE New Project Wizard failed
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createProjectAsync(NewProjectCreator.java:677)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.access$0(NewProjectCreator.java:590)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator$3.execute(NewProjectCreator.java:400)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:175)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:53)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:287)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:269)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createEclipseProject(NewProjectCreator.java:727)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createProjectAsync(NewProjectCreator.java:660)
+	... 6 more
+Root exception:
+org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:175)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:53)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:287)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:269)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createEclipseProject(NewProjectCreator.java:727)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createProjectAsync(NewProjectCreator.java:660)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.access$0(NewProjectCreator.java:590)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator$3.execute(NewProjectCreator.java:400)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: OK
+Contains: C:\Users\CNguyen\Documents\GitHub\Game1\TestAndroid overlaps the location of another project: 'TestAndroid'
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2014-09-16 17:36:04.383
+!MESSAGE New Project Wizard failed
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createProjectAsync(NewProjectCreator.java:677)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.access$0(NewProjectCreator.java:590)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator$3.execute(NewProjectCreator.java:400)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:175)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:53)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:287)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:269)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createEclipseProject(NewProjectCreator.java:727)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createProjectAsync(NewProjectCreator.java:660)
+	... 6 more
+Root exception:
+org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:175)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:53)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:287)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:269)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createEclipseProject(NewProjectCreator.java:727)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createProjectAsync(NewProjectCreator.java:660)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.access$0(NewProjectCreator.java:590)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator$3.execute(NewProjectCreator.java:400)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: OK
+Contains: C:\Users\CNguyen\Documents\GitHub\Game1\TestAndroid overlaps the location of another project: 'TestAndroid'
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2014-09-16 17:37:27.501
+!MESSAGE New Project Wizard failed
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createProjectAsync(NewProjectCreator.java:677)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.access$0(NewProjectCreator.java:590)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator$3.execute(NewProjectCreator.java:400)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:175)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:53)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:287)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:269)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createEclipseProject(NewProjectCreator.java:727)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createProjectAsync(NewProjectCreator.java:660)
+	... 6 more
+Root exception:
+org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:175)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:53)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:287)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:269)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createEclipseProject(NewProjectCreator.java:727)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createProjectAsync(NewProjectCreator.java:660)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.access$0(NewProjectCreator.java:590)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator$3.execute(NewProjectCreator.java:400)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: OK
+Contains: C:\Users\CNguyen\Documents\GitHub\Game1\TestAndroid overlaps the location of another project: 'TestAndroid'
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2014-09-16 17:40:07.096
+!MESSAGE 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/TestAndroid/res' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:266)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:249)
+	at com.android.ide.eclipse.adt.internal.sdk.Sdk$7.run(Sdk.java:1485)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2014-09-16 17:40:07.096
+!MESSAGE Resource '/TestAndroid/res' does not exist.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-09-16 17:40:07.934
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-09-16 17:40:07.939
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\CNguyen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 4 2014-09-16 18:36:10.357
+!MESSAGE Conflicting handlers for org.eclipse.ui.edit.delete: {com.sap.adt.businessobject.ui.internal.handlers.DeleteHandler} vs {com.sap.ndb.studio.admin.systemtables.SystemTablesElementHandlerDelete}
+
+!ENTRY org.eclipse.ui 4 4 2014-09-16 18:36:22.734
+!MESSAGE Conflicting handlers for org.eclipse.ui.edit.delete: {com.sap.adt.businessobject.ui.internal.handlers.DeleteHandler} vs {com.sap.ndb.studio.admin.systemtables.SystemTablesElementHandlerDelete}
